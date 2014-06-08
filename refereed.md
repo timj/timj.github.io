@@ -36,7 +36,7 @@ title: Refereed Publications
 
 * [Cold Dust in Hot Regions](http://adsabs.harvard.edu/abs/2014AJ....147...53S)
   _Sreenilayam, Gopika; Fich, M.; Ade, P. &amp; 12 co-authors_
-  AJ, 147, 53 
+  AJ, 147, 53
 
 ## 2013 (7 articles)
 
@@ -224,7 +224,7 @@ Total number of citations: 27
 
 * [Investigating the submillimetre variability of Sagittarius A* with SCUBA](http://adsabs.harvard.edu/abs/2003ANS...324..413P)
   _Pierce-Price, Douglas; Jenness, Tim; Richer, John &amp; Greaves, Jane_
-  Astron. Nach., 324, 413 
+  Astron. Nach., 324, 413
 
 * [Submillimetre observations of the Hubble Deep Field and Flanking Fields](http://adsabs.harvard.edu/abs/2003MNRAS.344..887S)
   _Serjeant, S.; Dunlop, J.S.; Mann, R.G. &amp; 11 co-authors_
@@ -379,4 +379,3 @@ Total number of citations: 63
 Total number of refereed citations: 12
 
 Total number of citations: 13
-
