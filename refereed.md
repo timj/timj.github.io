@@ -4,8 +4,11 @@ title: Refereed Publications
 ---
 
 
-## 2014 (7 articles)
+## 2014 (8 articles)
 
+* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience]()
+  _Economou, F.; Gaudet, S.; Jenness, T.; Redman, R.O.; Goliath, S.; Dowler, P.; Schade, D.; Chrysostomou, A._
+  submitted to Astronomy &amp; Computing
 
 * [Imaging the environment of a z=6.3 submillimeter galaxy with SCUBA-2](http://arxiv.org/abs/1403.0247)
   _Robson, E. I.; Ivison, R.J.; Smail, I. &amp; 24 co-authors_
@@ -89,7 +92,7 @@ Total number of citations: 3
   _Davis, C. J.; Gell, R.; Khanzadyan, T.; Smith, M. D. &amp; Jenness, T._
   A&amp;A, 511, 24  (38 refereed citations) (41 total citations)
 
-* [Observations of flat-spectrum radio sources at lambda850mum from the James Clerk Maxwell Telescope II. April 2000 to June 2005](http://adsabs.harvard.edu/abs/2010MNRAS.401.1240J)
+* [Observations of flat-spectrum radio sources at &lambda;850&mu;m from the James Clerk Maxwell Telescope II. April 2000 to June 2005](http://adsabs.harvard.edu/abs/2010MNRAS.401.1240J)
   _Jenness, T.; Robson, E. I. &amp; Stevens, J. A._
   MNRAS, 401, 1240  (5 refereed citations) (7 total citations)
 
@@ -97,9 +100,9 @@ Total number of citations: 3
   _Cooray, Asantha; Eales, Steve; Chapman, Scott &amp; 247 co-authors_
   Whitepaper supplement for HSLS proposal, arXiv:1007.3519 (5 refereed citations) (6 total citations)
 
-Total number of refereed citations: 43
+Total number of refereed citations: 48
 
-Total number of citations: 48
+Total number of citations: 53
 
 ## 2009 (3 articles)
 
@@ -111,7 +114,7 @@ Total number of citations: 48
   _Dent, W. R. F.; Hovey, G.J.; Dewdney, P.E. &amp; 8 co-authors_
   MNRAS, 395, 1805  (11 refereed citations) (14 total citations)
 
-* [Looking Through the Galactic Plane: Imaging Cold Dust Toward ell = 44&deg;](http://adsabs.harvard.edu/abs/2009AJ....138.1380M)
+* [Looking Through the Galactic Plane: Imaging Cold Dust Toward &ell; = 44&deg;](http://adsabs.harvard.edu/abs/2009AJ....138.1380M)
   _Matthews, Henry; Kirk, Hellen; Johnstone, Doug &amp; 11 co-authors_
   AJ, 138, 1380  (7 refereed citations) (9 total citations)
 
@@ -131,7 +134,7 @@ Total number of citations: 80
   _Clements, D. L.; Vaccari, M.; Babbedge, T. &amp; 46 co-authors_
   MNRAS, 387, 247  (47 refereed citations) (54 total citations)
 
-* [The SCUBA HAlf Degree Extragalactic Survey - VI. 350-mum mapping of submillimetre galaxies](http://adsabs.harvard.edu/abs/2008MNRAS.384.1597C)
+* [The SCUBA HAlf Degree Extragalactic Survey - VI. 350-&mu;m mapping of submillimetre galaxies](http://adsabs.harvard.edu/abs/2008MNRAS.384.1597C)
   _Coppin, Kristen; Halpern, M.; Scott, D. &amp; 24 co-authors_
   MNRAS, 384, 1597  (75 refereed citations) (88 total citations)
 
@@ -255,7 +258,7 @@ Total number of citations: 143
 
 ## 2001 (1 article)
 
-* [Observations of flat-spectrum radio sources at lambda850 mum from the James Clerk Maxwell Telescope - I. 1997 April to 2000 April](http://adsabs.harvard.edu/abs/2001MNRAS.327..751R)
+* [Observations of flat-spectrum radio sources at &lambda;850 &mu;m from the James Clerk Maxwell Telescope - I. 1997 April to 2000 April](http://adsabs.harvard.edu/abs/2001MNRAS.327..751R)
   _Robson, E. I.; Stevens, J. A. &amp; Jenness, T._
   MNRAS, 327, 751  (14 refereed citations) (17 total citations)
 
@@ -323,7 +326,7 @@ Total number of citations: 851
 
 ## 1998 (2 articles)
 
-* [A Dust Ring around &amp;epsil Eridani: Analog to the Young Solar System](http://adsabs.harvard.edu/abs/1998ApJ...506L.133G)
+* [A Dust Ring around &epsilon; Eridani: Analog to the Young Solar System](http://adsabs.harvard.edu/abs/1998ApJ...506L.133G)
   _Greaves, J. S.; Holland, W.S.; Moriarty-Schieven, G. &amp; 8 co-authors_
   ApJ, 506, 133  (176 refereed citations) (230 total citations)
 
