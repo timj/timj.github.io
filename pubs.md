@@ -120,3 +120,32 @@ University of Cambridge, 1996
 
 # Technical Documentation
 
+I have contributed to 25 Starlink documents, the following as first author:
+
+* SURF: SCUBA User Reduction Facility
+  _Jenness, T.; Lightfoot, J.F._
+  Starlink User Note 216, 2003
+
+* NDFPERL: Perl interface to NDF
+  _Jenness, T.; Bly, M.J._
+  Starlink User Note 222, 1998
+
+* STARPERL: Starlink Perl modules
+  _Jenness, T.; Economou, F._
+  Starlink User Note 228, 2003
+
+* The Global Section Datafile (GSD) access library
+  _Jenness, T.; Tilanus, R.P.J.; Meyerdierks, H.; Fairclough, J._
+  Starlink User Note 229, 1999
+
+* ORAC-DR: SCUBA Pipeline Data Reduction
+  _Jenness, T.; Economou, F._
+  Starlink User Note 231, 2004
+
+* ORAC-DR: Programmer's Guide
+  _Jenness, T.; Economou, F., Cavanagh, B._
+  Starlink User Note 233, 2004
+
+* SURF Programming interface
+  _Jenness, T.; Lightfoot, J.F._
+  Starlink System Note 72, 2000
