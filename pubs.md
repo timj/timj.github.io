@@ -9,6 +9,10 @@ title: Publications
 
 **Selected highlights**
 
+* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](https://github.com/frossie/aandc-jsa)
+  _Economou, F.; Gaudet, S.; Jenness, T.; Redman, R.O.; Goliath, S.; Dowler, P.; Schade, D.; Chrysostomou, A._
+  submitted to Astronomy &amp; Computing
+
 * [Learning from 25 years of the extensible _N_-Dimensional Data Format](https://github.com/Starlink/aandc-ndf/releases/download/v1.00-submitted/acndf.pdf)
   _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
   submitted to Astronomy &amp; Computing
@@ -73,19 +77,29 @@ A complete list of publications is also available on [ADS](http://adsabs.harvard
   _Jenness, T._
   Hot-wiring the Transient Universe III, in press, [arXiv:1402.1202](http://arxiv.org/abs/1402.1202)
 
-* [JCMT Science Archive: Advanced Heterodyne Data Products Pipeline](http://adsabs.harvard.edu/abs/2008ASPC..394..565J)
-  _Jenness, T.; Cavanagh, B.; Economou, F. &amp; Berry, D. S._
-  ASP Conf. Ser., 2008, 394, 565
+* [PAL: A Positional Astronomy Library](http://adsabs.harvard.edu/abs/2013ASPC..475..307J)
+  _Jenness, T. &amp; Berry, D. S._
+  ASP Conf. Ser., 475, 307
 
 * [Data Management at the UKIRT and JCMT](http://adsabs.harvard.edu/abs/2011tfa..confE..42J)
   _Jenness, Tim &amp; Economou, Frossie_
-  Telescopes from Afar, 2011, 42
+  Telescopes from Afar, 2011, 42 _(invited talk)_
 
+* [New Features in AST: A WCS Management and Manipulation Library](http://adsabs.harvard.edu/abs/2012ASPC..461..825B)
+  _Berry, D. S. &amp; Jenness, T._
+  ASP Conf. Ser., 461, 825
+
+* [JCMT Science Archive: Advanced Heterodyne Data Products Pipeline](http://adsabs.harvard.edu/abs/2008ASPC..394..565J)
+  _Jenness, T.; Cavanagh, B.; Economou, F. &amp; Berry, D. S._
+  ASP Conf. Ser., 2008, 394, 565
 
 * [Sharing code and support between heterogeneous telescopes: the UKIRT and JCMT joint software projects](http://adsabs.harvard.edu/abs/2002SPIE.4844..321E)
   _Economou, Frossie; Jenness, Tim &amp; Rees, Nicholas P._
   Proc. SPIE, 2002, 4844, 321
 
+* [Removing sky contributions from SCUBA data](http://adsabs.harvard.edu/abs/1998SPIE.3357..548J)
+  _Jenness, Tim; Lightfoot, John F. &amp; Holland, Wayne S._
+  Proc. SPIE, 3357, 548
 
 See also: [Full list](conferences.html)
 
