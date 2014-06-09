@@ -120,7 +120,7 @@ University of Cambridge, 1996
 
 # Technical Documentation
 
-I have contributed to 25 Starlink documents, the following as first author:
+I have contributed to [25 Starlink documents](stardocs), the following as first author:
 
 * SURF: SCUBA User Reduction Facility
   _Jenness, T.; Lightfoot, J.F._
