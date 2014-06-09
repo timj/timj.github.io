@@ -116,9 +116,9 @@ University of Cambridge, 1996
 
 # Software
 
-Github: https://github.com/timj is my primary Github account. This page also lists the organizations to which I contribute.
+Github: [github.com/timj](https://github.com/timj) is my primary Github account. This page also lists the organizations to which I contribute.
 
-CPAN: https://metacpan.org/author/TJENNESS
+CPAN: [metacpan.org/author/TJENNESS](https://metacpan.org/author/TJENNESS)
 
 PyPI: [palpy](https://pypi.python.org/pypi/palpy/)
 
