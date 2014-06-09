@@ -117,18 +117,19 @@ title: JAC documents
 
 * JCMT Software Newsletter No. 1 - 1 December 1995
   _Jenness, T._
-GEN/NEWS/1
+  GEN/NEWS/1
 
 * JCMT Software Newsletter No. 2 - 18 January 1996
   _Jenness, T._
-GEN/NEWS/2
+  GEN/NEWS/2
 
 * JCMT Software Newsletter No. 3 - 19 April 1996
-  _Jenness, T._ GEN/NEWS/3
+  _Jenness, T._
+  GEN/NEWS/3
 
 * JCMT Data directories and guest accounts
-by Richard Prestage, Tim Jenness, Remo P. J. Tilanus
-GEN/SN/003
+  _Richard Prestage, Tim Jenness, Remo P. J. Tilanus_
+  GEN/SN/003
 
 * Short-term plans for archiving SCUBA data
 by Remo Tilanus, T. Jenness, R. M. Prestage
