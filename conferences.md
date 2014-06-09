@@ -7,7 +7,7 @@ title: Conference Publications
 
 * An overview of the planned CCAT software System
   _Jenness, T.; Shepherd, M.S.; Schaaf, R. &amp; 7 co-authors_
-  Proc. SPIE, 9152, 9152-109, in press
+  Proc. SPIE, 9152, 9152-109, in press, [arXiv:1406.1515](http://arxiv.org/abs/1406.1515)
 
 * ANTARES: a prototype transient broker System
   _Saha, A.; Matheson, T.; Snodgrass, R.; Keceioglu, J.; Narayan, G.; Seaman, R.; Jenness, T. &amp; Axelrod, T._
