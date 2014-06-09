@@ -116,11 +116,16 @@ University of Cambridge, 1996
 
 # Software
 
+Github: https://github.com/timj is my primary Github account. This page also lists the organizations to which I contribute.
+
+CPAN: https://metacpan.org/author/TJENNESS
+
+PyPI: [palpy](https://pypi.python.org/pypi/palpy/)
 
 
 # Technical Documentation
 
-I have contributed to [25 Starlink documents](stardocs), the following as first author:
+I wrote [10 JCMT newsletter articles](jacdocs) and I have contributed to [25 Starlink documents](stardocs), the following as first author:
 
 * SURF: SCUBA User Reduction Facility
   _Jenness, T.; Lightfoot, J.F._
