@@ -3,6 +3,7 @@ layout: page
 title: Starlink Documents
 ---
 
+# Starlink User Notes
 
 * SPECX -- A Millimetre Wave Spectral Reduction Package
   _Prestage, R. M.; Meyerdierks, H.; Lightfoot, J. F.; Jenness, T.; Tilanus, R. P. J.; Padman, R._
@@ -84,9 +85,13 @@ title: Starlink Documents
   _Jenness, Tim_
   Starlink User Note 267.1, 2012
 
+# Starlink System Notes
+
 * SURF Programming Interface
   _Jenness, Tim; Lightfoot, John F._
   Starlink System Note 72.2, 2000
+
+# Starlink Cookbooks
 
 * Specx Cookbook - Reduction of millimetre-wave data
   _Matthews, Henry E.; Jenness, Tim_
@@ -104,3 +109,8 @@ title: Starlink Documents
   _Chapin, Edward; Dempsey, Jessica; Jenness, Tim; Scott, Douglas; Thomas, Holly; Tilanus, Remo P. J._
   Starlink Cookbook 19.3, 2010
 
+# Starlink Bulletins
+
+* SURF: Reducing SCUBA data
+  _Jenness, Tim_
+  Starlink Bulletin 20, 1998
