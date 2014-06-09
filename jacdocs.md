@@ -132,8 +132,8 @@ title: JAC documents
   GEN/SN/003
 
 * Short-term plans for archiving SCUBA data
-by Remo Tilanus, T. Jenness, R. M. Prestage
-GEN/SN/004
+  _Remo Tilanus, T. Jenness, R. M. Prestage_
+  GEN/SN/004
 
 ## JCMT Science Archive
 
@@ -141,11 +141,15 @@ GEN/SN/004
   _Jenness, T._
   JSA/ANA/001
 
+* HARP data acceptance criteria for the JCMT Legacy Surveys
+  _Hatchell, J.; Wilson, C.; Buckle, J.; Chrysostomou, A.; Tilanus, R.; Economou, F.; Jenness, T.; Cavanagh, B._
+  2008
+
 ## JCMT User Notes
 
 * Guide to JCMT Utilities
   _Jenness, T._
-MT/UN/203.4
+  MT/UN/203.4
 
 ## JCMT Observatory Control System
 
@@ -211,7 +215,7 @@ MT/UN/203.4
   _Tim Jenness_
   SC2/SOF/S210/005
 
-# SCUBA Calibration Database Project
+## SCUBA Calibration Database Project
 
 * Project Definition for the SCUBA Calibration Database
   _Elese Archibald, Tim Jenness, Wayne Holland_
