@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Conference Publications
 ---
 
 ## 2014 (13 articles)
