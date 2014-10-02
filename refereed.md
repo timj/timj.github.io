@@ -4,23 +4,15 @@ title: Refereed Publications
 ---
 
 
-## 2014 (8 articles)
+## 2014 (9 articles)
+
+* [ORAC-DR: A generic data reduction pipeline infrastructure](https://github.com/timj/aandc-oracdr/releases/download/submitted/acoracdr-submitted.pdf)
+  _Jenness, T. &amp Economou,F._
+  submitted to Astronomy &amp; Computing
 
 * [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience]()
   _Economou, F.; Gaudet, S.; Jenness, T.; Redman, R.O.; Goliath, S.; Dowler, P.; Schade, D.; Chrysostomou, A._
   submitted to Astronomy &amp; Computing
-
-* [Imaging the environment of a z=6.3 submillimeter galaxy with SCUBA-2](http://arxiv.org/abs/1403.0247)
-  _Robson, E. I.; Ivison, R.J.; Smail, I. &amp; 24 co-authors_
-  submitted to ApJ, arXiv:1403.0247
-
-* [A submillimeter galaxy illuminating its circumgalactic medium: Ly-alpha scattering in a cold, clumpy outflow](http://arxiv.org/abs/1402.6335)
-  _Geach, J.E.; Bower, R.G.; Alexander, D.M. &amp; 17 co-authors_
-  submitted to MNRAS, arXiv:1402.6335
-
-* [Disentangling a group of lensed submm galaxies at z~2.9](http://arxiv.org/abs/1312.0950)
-  _MacKenzie, Todd P.; Scott, Douglas; Chapin, Edward L. &amp; 16 co-authors_
-  submitted to MNRAS, arXiv:1312.0950
 
 * [Learning from 25 years of the extensible _N_-Dimensional Data Format](https://github.com/Starlink/aandc-ndf/releases/download/v1.00-submitted/acndf.pdf)
   _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
@@ -28,11 +20,23 @@ title: Refereed Publications
 
 * [The Future of Astronomical Data Formats I. Learning from FITS](https://github.com/timj/aandc-fits/releases/download/submitted/acfits.pdf)
   _Thomas, B.; Jenness, T.; Economou, F. &amp; 35 co-authors_
-  submitted to Astronomy &amp; Computing
+  submitted to Astronomy &amp; Computing,
 
-* [Spectroscopic analysis in the Virtual Observatory environment with SPLAT-VO](https://github.com/Starlink/aandc-splatvo/releases/download/submitted-v2/acsplat.pdf)
+* [Spectroscopic analysis in the Virtual Observatory environment with SPLAT-VO](http://dx.doi.org/10.1016/j.ascom.2014.06.001)
   _&Scaron;koda, P.; Draper, P.W.; Neves, M.C.; Andre&scaron;i&ccaron;, D. &amp; Jenness, T._
-  submitted to Astronomy &amp; Computing
+  Astronomy &amp; Computing, in press, arXiv:1407.1765
+
+* [A submillimeter galaxy illuminating its circumgalactic medium: Ly-alpha scattering in a cold, clumpy outflow](http://adsabs.harvard.edu/abs/2014ApJ...793...22G)
+  _Geach, J.E.; Bower, R.G.; Alexander, D.M. &amp; 17 co-authors_
+  ApJ, 793, 22, arXiv:1402.6335
+
+* [Imaging the environment of a z=6.3 submillimeter galaxy with SCUBA-2](http://adsabs.harvard.edu/abs/2014ApJ...793...11R)
+  _Robson, E. I.; Ivison, R.J.; Smail, I. &amp; 24 co-authors_
+  ApJ, 793, 11, arXiv:1403.0247
+
+* [Disentangling a group of lensed submm galaxies at z~2.9](http://adsabs.harvard.edu/abs/2014MNRAS.445..201M)
+  _MacKenzie, Todd P.; Scott, Douglas; Chapin, Edward L. &amp; 16 co-authors_
+  MNRAS, 445, 201, arXiv:1312.0950
 
 * [Cold Dust in Hot Regions](http://adsabs.harvard.edu/abs/2014AJ....147...53S)
   _Sreenilayam, Gopika; Fich, M.; Ade, P. &amp; 12 co-authors_
