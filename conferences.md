@@ -3,27 +3,41 @@ layout: page
 title: Conference Publications
 ---
 
-## 2014 (13 articles)
+## 2015 (2 articles)
 
-* An overview of the planned CCAT software System
-  _Jenness, T.; Shepherd, M.S.; Schaaf, R. &amp; 7 co-authors_
-  Proc. SPIE, 9152, 9152-109, in press, [arXiv:1406.1515](http://arxiv.org/abs/1406.1515)
+* [Map-making for large-format detector arrays on CCAT]()
+  _Marsden,G.; Jenness, T. &amp; Scott, D._
+  Astronomical Data Analysis Software and Systems XXIV, ASP Conf. Ser., in press
 
-* ANTARES: a prototype transient broker System
-  _Saha, A.; Matheson, T.; Snodgrass, R.; Keceioglu, J.; Narayan, G.; Seaman, R.; Jenness, T. &amp; Axelrod, T._
-  Proc. SPIE, 9149, 9149-7, in press
+* [A new HDF5 based raw data model for CCAT]()
+  _Schaaf, R.; Brazier, A.; Jenness, T.; Nikola, T. &amp; Shepherd, M._
+  Astronomical Data Analysis Software and Systems XXIV, ASP Conf. Ser., in press
 
-* Setting the standard: 25 years of operating the JCMT
-  _Dempsey, J. T.; Bell, G.S.; Chrysostomou, A. &amp; 9 co-authors_
-  Proc. SPIE, 9149, 9149-51, in press
+## 2014 (14 articles)
 
-* Advanced data products for the JCMT Science Archive
-  _Bell, G.S.; Graves, S.F.; Currie, M.J. &amp; 7 co-authors_
-  Proc. SPIE, 9152, 9152-93, in press
+* [SWCam: the short wavelength camera for the CCAT Observatory](http://adsabs.harvard.edu/abs/2014SPIE.9153E..0LS)
+  _Stacey, G.; Parshley, S.; Nikola, T. &amp; 33 co-authors_
+  Proc. SPIE, 9153, 91530L
 
-* SCUBA-2: an update on the performance of the 10,000 pixel bolometer camera after 2 years of science operation at the JCMT
+* [SCUBA-2: an update on the performance of the 10,000 pixel bolometer camera after 2 years of science operation at the JCMT](http://adsabs.harvard.edu/abs/2014SPIE.9153E..03B)
   _Bintley, D.; Holland, W.S.; MacIntosh, M.J. &amp; 17 co-authors_
-  Proc. SPIE, 9153, 9153-2, in press
+  Proc. SPIE, 9153, 915303
+
+* [An overview of the planned CCAT software System](http://adsabs.harvard.edu/abs/2014SPIE.9152E..2WJ)
+  _Jenness, T.; Shepherd, M.S.; Schaaf, R. &amp; 7 co-authors_
+  Proc. SPIE, 9152, 91522W, [arXiv:1406.1515](http://arxiv.org/abs/1406.1515)
+
+* [Advanced data products for the JCMT Science Archive](http://adsabs.harvard.edu/abs/2014SPIE.9152E..2JB)
+  _Bell, G.S.; Graves, S.F.; Currie, M.J. &amp; 7 co-authors_
+  Proc. SPIE, 9152, 91522J
+
+* [ANTARES: a prototype transient broker System](http://adsabs.harvard.edu/abs/2014SPIE.9149E..08S)
+  _Saha, A.; Matheson, T.; Snodgrass, R.; Keceioglu, J.; Narayan, G.; Seaman, R.; Jenness, T. &amp; Axelrod, T._
+  Proc. SPIE, 9149, 914908
+
+* [Setting the standard: 25 years of operating the JCMT](http://adsabs.harvard.edu/abs/2014SPIE.9149E..1FD)
+  _Dempsey, J. T.; Bell, G.S.; Chrysostomou, A. &amp; 9 co-authors_
+  Proc. SPIE, 9149, 91491F
 
 * [Transient alert follow-up planned for CCAT](http://adsabs.harvard.edu/abs/2014arXiv1402.1202J)
   _Jenness, T._
