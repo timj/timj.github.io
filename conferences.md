@@ -133,7 +133,7 @@ Total number of refereed citations: 15
 
 Total number of citations: 25
 
-## 2010 (2 articles)
+## 2010 (3 articles)
 
 * [Extinction correction and on-sky calibration of SCUBA-2](http://adsabs.harvard.edu/abs/2010SPIE.7741E..54D)
   _Dempsey, Jessica T.; Friberg, Per; Jenness, Tim; Bintley, Dan &amp; Holland, Wayne S._
@@ -143,7 +143,8 @@ Total number of citations: 25
   _Walther, Craig A.; Gao, Xiaofeng; Kelly, Dennis; Kackley, Russell D. &amp; Jenness, Tim_
   Proc. SPIE, 7740, 31  (1 refereed citations) (1 total citations)
 
-
+* [Characterising and calibrating the SCUBA-2 superconducting bolometer arrays for science observing](http://dx.doi.org/10.1109/ICIMW.2010.5612463) _Bintley, D.; Friberg, P.; MacIntosh, M. J. &amp; co-authors_
+  in IRMMW-Thz 35, IEEE Conference Proceedings
 
 Total number of refereed citations: 7
 
