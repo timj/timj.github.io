@@ -9,13 +9,21 @@ title: Publications
 
 **Selected highlights**
 
-* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](https://github.com/frossie/aandc-jsa)
-  _Economou, F.; Gaudet, S.; Jenness, T.; Redman, R.O.; Goliath, S.; Dowler, P.; Schade, D.; Chrysostomou, A._
-  submitted to Astronomy &amp; Computing
+* [Reimplementing the Hierarchical Data System using HDF5](http://dx.doi.org/10.1016/j.ascom.2015.02.003)
+  _Jenness, T._
+  Astronomy &amp;Computing, 2015, in press (special issue on data formats)
 
-* [Learning from 25 years of the extensible _N_-Dimensional Data Format](https://github.com/Starlink/aandc-ndf/releases/download/v1.00-submitted/acndf.pdf)
+* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](http://dx.doi.org/10.1016/j.ascom.2014.12.005)
+  _Economou, F.; Gaudet, S.; Jenness, T. &amp; 10 co-authors_
+  Astronomy &amp; Computing, 2015, in press (special issue on the Virtual Observatory: II)
+
+* [Learning from 25 years of the extensible _N_-Dimensional Data Format](http://dx.doi.org/10.1016/j.ascom.2014.11.001)
   _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
-  submitted to Astronomy &amp; Computing
+  Astronomy &amp; Computing, 2015, in press (special issue on data formats)
+
+* [ORAC-DR: A generic data reduction pipeline infrastructure](http://adsabs.harvard.edu/abs/2015A%26C.....9...40J)
+  _Jenness, T.; Economou, F._
+  Astronomy &amp; Computing, 2015, 9, 40
 
 * [Astropy: A community Python package for astronomy](http://adsabs.harvard.edu/abs/2013A%26A...558A..33A)
   _Astropy Collaboration &amp; 44 co-authors_
@@ -67,15 +75,19 @@ title: Publications
 
 See also: [Full list](refereed)
 
-A complete list of publications is also available on [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&aut_req=YES&aut_logic=OR&obj_logic=OR&author=Jenness%2C+T.&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1) and my arXiv page is [jenness_t_1](http://arxiv.org/a/jenness_t_1).
+A complete list of publications is also available on [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&aut_req=YES&aut_logic=OR&obj_logic=OR&author=Jenness%2C+T.&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=300&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1) and my arXiv page is [jenness_t_1](http://arxiv.org/a/jenness_t_1).
 
 # Non-refereed Academic Publications
 
 **Selected highlights**
 
-* [Transient alert follow-up planned for CCAT](http://adsabs.harvard.edu/abs/2014arXiv1402.1202J)
+* [An overview of the planned CCAT software system](http://adsabs.harvard.edu/abs/2014SPIE.9152E..2WJ)
+  _Jenness, T.; Shepherd, M. C.; Schaaf, R. &amp; 7 co-authors_
+  Proc. SPIE, 2014, 9152, 91522W
+
+* [Transient alert follow-up planned for CCAT](http://adsabs.harvard.edu/abs/2014htu..conf..199J)
   _Jenness, T._
-  Hot-wiring the Transient Universe III, in press, [arXiv:1402.1202](http://arxiv.org/abs/1402.1202)
+  Hot-wiring the Transient Universe III, 2014, econf:C131113.1, 199
 
 * [PAL: A Positional Astronomy Library](http://adsabs.harvard.edu/abs/2013ASPC..475..307J)
   _Jenness, T. &amp; Berry, D. S._

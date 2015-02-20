@@ -3,7 +3,7 @@ layout: page
 title: Conference Publications
 ---
 
-## 2015 (2 articles)
+## 2015 (3 articles)
 
 * [Map-making for large-format detector arrays on CCAT]()
   _Marsden,G.; Jenness, T. &amp; Scott, D._
@@ -11,6 +11,10 @@ title: Conference Publications
 
 * [A new HDF5 based raw data model for CCAT]()
   _Schaaf, R.; Brazier, A.; Jenness, T.; Nikola, T. &amp; Shepherd, M._
+  Astronomical Data Analysis Software and Systems XXIV, ASP Conf. Ser., in press
+
+* [The Past, Present and Future of Astronomical Data Formats]()
+  _Mink, J.; Mann, R.; Hanisch, R.; Rots, A.; Seaman, R.; Jenness, T.; Thomas, B. &amp; O'Mullane, W._
   Astronomical Data Analysis Software and Systems XXIV, ASP Conf. Ser., in press
 
 ## 2014 (14 articles)
@@ -32,16 +36,16 @@ title: Conference Publications
   Proc. SPIE, 9152, 91522J
 
 * [ANTARES: a prototype transient broker System](http://adsabs.harvard.edu/abs/2014SPIE.9149E..08S)
-  _Saha, A.; Matheson, T.; Snodgrass, R.; Keceioglu, J.; Narayan, G.; Seaman, R.; Jenness, T. &amp; Axelrod, T._
+  _Saha, A.; Matheson, T.; Snodgrass, R.; Kececioglu, J.; Narayan, G.; Seaman, R.; Jenness, T. &amp; Axelrod, T._
   Proc. SPIE, 9149, 914908
 
 * [Setting the standard: 25 years of operating the JCMT](http://adsabs.harvard.edu/abs/2014SPIE.9149E..1FD)
   _Dempsey, J. T.; Bell, G.S.; Chrysostomou, A. &amp; 9 co-authors_
   Proc. SPIE, 9149, 91491F
 
-* [Transient alert follow-up planned for CCAT](http://adsabs.harvard.edu/abs/2014arXiv1402.1202J)
+* [Transient alert follow-up planned for CCAT](http://adsabs.harvard.edu/abs/2014htu..conf..199J)
   _Jenness, T._
-  Hot-wiring the Transient Universe III, in press, [arXiv:1402.1202](http://arxiv.org/abs/1402.1202)
+  Hot-wiring the Transient Universe III, 2014, [arXiv:1402.1202](http://arxiv.org/abs/1402.1202)
 
 * [A New Archive of UKIRT Legacy Data at CADC](http://adsabs.harvard.edu/abs/2014ASPC..485..143B)
   _Bell, G. S.; Currie, M. J.; Redman, R. O.; Purves, M. &amp; Jenness, T._

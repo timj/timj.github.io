@@ -3,28 +3,37 @@ layout: page
 title: Refereed Publications
 ---
 
+## 2015
 
-## 2014 (9 articles)
-
-* [ORAC-DR: A generic data reduction pipeline infrastructure](https://github.com/timj/aandc-oracdr/releases/download/submitted/acoracdr-submitted.pdf)
-  _Jenness, T. &amp Economou,F._
-  submitted to Astronomy &amp; Computing
-
-* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience]()
-  _Economou, F.; Gaudet, S.; Jenness, T.; Redman, R.O.; Goliath, S.; Dowler, P.; Schade, D.; Chrysostomou, A._
-  submitted to Astronomy &amp; Computing
-
-* [Learning from 25 years of the extensible _N_-Dimensional Data Format](https://github.com/Starlink/aandc-ndf/releases/download/v1.00-submitted/acndf.pdf)
-  _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
-  submitted to Astronomy &amp; Computing
-
-* [The Future of Astronomical Data Formats I. Learning from FITS](https://github.com/timj/aandc-fits/releases/download/submitted/acfits.pdf)
+* [Learning from FITS: Limitations in use in modern astronomical research](http://dx.doi.org/10.1016/j.ascom.2015.01.009)
   _Thomas, B.; Jenness, T.; Economou, F. &amp; 35 co-authors_
-  submitted to Astronomy &amp; Computing,
+  Astronomy &amp; Computing, 2015, in press (special issue on data formats)
 
-* [Spectroscopic analysis in the Virtual Observatory environment with SPLAT-VO](http://dx.doi.org/10.1016/j.ascom.2014.06.001)
+* [Reimplementing the Hierarchical Data System using HDF5](http://dx.doi.org/10.1016/j.ascom.2015.02.003)
+  _Jenness, T._
+  Astronomy &amp;Computing, 2015, in press (special issue on data formats)
+
+* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](http://dx.doi.org/10.1016/j.ascom.2014.12.005)
+  _Economou, F.; Gaudet, S.; Jenness, T. &amp; 10 co-authors_
+  Astronomy &amp; Computing, 2015, in press (special issue on the Virtual Observatory: II)
+
+* [Learning from 25 years of the extensible _N_-Dimensional Data Format](http://dx.doi.org/10.1016/j.ascom.2014.11.001)
+  _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
+  Astronomy &amp; Computing, 2015, in press (special issue on data formats)
+
+* [ORAC-DR: A generic data reduction pipeline infrastructure](http://adsabs.harvard.edu/abs/2015A%26C.....9...40J)
+  _Jenness, T.; Economou, F._
+  Astronomy &amp; Computing, 2015, 9, 40
+
+* [The SCUBA-2 Cosmology Legacy Survey: the submillimetre properties of Lyman-break galaxies at z = 3-5](http://adsabs.harvard.edu/abs/2015MNRAS.446.1293C)
+  _Coppin, K.; Geach, J.; Almaini, O. &amp; 28 co-authors_
+  MNRAS, 2015, 446, 1293
+
+## 2014 (5 articles)
+
+* [Spectroscopic analysis in the Virtual Observatory environment with SPLAT-VO](http://adsabs.harvard.edu/abs/2014A%26C.....7..108S)
   _&Scaron;koda, P.; Draper, P.W.; Neves, M.C.; Andre&scaron;i&ccaron;, D. &amp; Jenness, T._
-  Astronomy &amp; Computing, in press, arXiv:1407.1765
+  Astronomy &amp; Computing, 2014, 7, 108 (special issue on the Virtual Observatory: I)
 
 * [A submillimeter galaxy illuminating its circumgalactic medium: Ly-alpha scattering in a cold, clumpy outflow](http://adsabs.harvard.edu/abs/2014ApJ...793...22G)
   _Geach, J.E.; Bower, R.G.; Alexander, D.M. &amp; 17 co-authors_
