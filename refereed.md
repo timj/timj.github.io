@@ -21,6 +21,14 @@ title: Refereed Publications
   _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
   Astronomy &amp; Computing, 2015, in press (special issue on data formats)
 
+* [The JCMT Gould Belt Survey: First results from the SCUBA-2 observations of the Ophiuchus molecular cloud and a virial analysis of its prestellar core population](http://adsabs.harvard.edu/abs/2015arXiv150205858P)
+  _Pattle, K.; Ward-Thompson, D.; Kirk, J.M. &amp; 59 co-authors_
+  MNRAS, in press
+
+* [The JCMT Gould Belt Survey: evidence for radiative heating in Serpens MWC 297 and its influence on local star formation](http://adsabs.harvard.edu/abs/2015MNRAS.448.1551R)
+  _Rumble, D.; Hatchell, J.; Gutermuth, R.A. &amp; 62 co-authors_
+  MNRAS, 2015, 448, 1551
+
 * [ORAC-DR: A generic data reduction pipeline infrastructure](http://adsabs.harvard.edu/abs/2015A%26C.....9...40J)
   _Jenness, T.; Economou, F._
   Astronomy &amp; Computing, 2015, 9, 40
