@@ -143,30 +143,30 @@ PyPI: [palpy](https://pypi.python.org/pypi/palpy/)
 
 I wrote [ JCMT newsletter articles and other assorted technical document at the JAC](jacdocs) and I have contributed to [25 Starlink documents](stardocs), the following as first author:
 
-* SURF: SCUBA User Reduction Facility
+* [SURF: SCUBA User Reduction Facility](http://adsabs.harvard.edu/abs/2003StaUN.216.....J)
   _Jenness, T.; Lightfoot, J.F._
   Starlink User Note 216, 2003
 
-* NDFPERL: Perl interface to NDF
+* [NDFPERL: Perl interface to NDF](http://adsabs.harvard.edu/abs/1998StaUN.222.....J)
   _Jenness, T.; Bly, M.J._
   Starlink User Note 222, 1998
 
-* STARPERL: Starlink Perl modules
+* [STARPERL: Starlink Perl modules](http://adsabs.harvard.edu/abs/2003StaUN.228.....J)
   _Jenness, T.; Economou, F._
   Starlink User Note 228, 2003
 
-* The Global Section Datafile (GSD) access library
+* [The Global Section Datafile (GSD) access library](http://adsabs.harvard.edu/abs/1999StaUN.229.....J)
   _Jenness, T.; Tilanus, R.P.J.; Meyerdierks, H.; Fairclough, J._
   Starlink User Note 229, 1999
 
-* ORAC-DR: SCUBA Pipeline Data Reduction
+* [ORAC-DR: SCUBA Pipeline Data Reduction](http://adsabs.harvard.edu/abs/2004StaUN.231.....J)
   _Jenness, T.; Economou, F._
   Starlink User Note 231, 2004
 
-* ORAC-DR: Programmer's Guide
+* [ORAC-DR: Programmer's Guide](http://adsabs.harvard.edu/abs/2004StaUN.233.....J)
   _Jenness, T.; Economou, F., Cavanagh, B._
   Starlink User Note 233, 2004
 
-* SURF Programming interface
+* [SURF Programming interface](http://adsabs.harvard.edu/abs/2000StaSN..72.....J)
   _Jenness, T.; Lightfoot, J.F._
   Starlink System Note 72, 2000
