@@ -133,9 +133,9 @@ Total number of citations: 3
   _Jenness, T.; Robson, E. I. &amp; Stevens, J. A._
   MNRAS, 401, 1240  (5 refereed citations) (7 total citations)
 
-* [The Herschel-SPIRE Legacy Survey (HSLS): the scientific goals of a shallow and wide submillimeter imaging survey with SPIRE]()
+* [The Herschel-SPIRE Legacy Survey (HSLS): the scientific goals of a shallow and wide submillimeter imaging survey with SPIRE](http://adsabs.harvard.edu/abs/2010arXiv1007.3519C)
   _Cooray, Asantha; Eales, Steve; Chapman, Scott &amp; 247 co-authors_
-  Whitepaper supplement for HSLS proposal, arXiv:1007.3519 (5 refereed citations) (6 total citations)
+  Whitepaper supplement for HSLS proposal, ([arXiv:1007.3519](http://arxiv.org/abs/1007.3519)) (5 refereed citations) (6 total citations)
 
 Total number of refereed citations: 48
 
