@@ -9,19 +9,23 @@ title: Publications
 
 **Selected highlights**
 
+* [Automated reduction of submillimetre single-dish heterodyne data from the James Clerk Maxwell Telescope using ORAC-DR](http://arxiv.org/abs/1506.04827)
+_Jenness, T.; Currie, M.; Tilanus, R.; Cavanagh, B.; Berry, D.; Leech, J. &amp; Rizzi, L._
+  MNRAS, 2015, in press ([arXiv:1506.04827](http://arxiv.org/abs/1506.04827))
+
 * [Reimplementing the Hierarchical Data System using HDF5](http://dx.doi.org/10.1016/j.ascom.2015.02.003)
   _Jenness, T._
-  Astronomy &amp;Computing, 2015, in press (special issue on data formats)
-
-* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](http://dx.doi.org/10.1016/j.ascom.2014.12.005)
-  _Economou, F.; Gaudet, S.; Jenness, T. &amp; 10 co-authors_
-  Astronomy &amp; Computing, 2015, in press (special issue on the Virtual Observatory: II)
+  Astronomy &amp;Computing, 2015, in press (special issue on data formats) ([arXiv:1502.04029](http://arxiv.org/abs/1502.04029))
 
 * [Learning from 25 years of the extensible _N_-Dimensional Data Format](http://dx.doi.org/10.1016/j.ascom.2014.11.001)
   _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
-  Astronomy &amp; Computing, 2015, in press (special issue on data formats)
+  Astronomy &amp; Computing, 2015, in press (special issue on data formats) ([arXiv:1410.7513](http://arxiv.org/abs/1410.7513))
 
-* [ORAC-DR: A generic data reduction pipeline infrastructure](http://adsabs.harvard.edu/abs/2015A%26C.....9...40J)
+* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](http://dx.doi.org/10.1016/j.ascom.2014.12.005)
+  _Economou, F.; Gaudet, S.; Jenness, T. &amp; 10 co-authors_
+  Astronomy &amp; Computing, 2015, 11 (B), 161 (special issue on the Virtual Observatory: II) ([arXiv:1412.4399](http://arxiv.org/abs/1412.4399))
+
+* [ORAC-DR: A generic data reduction pipeline infrastructure](http://dx.doi.org/10.1016/j.ascom.2014.10.005)
   _Jenness, T.; Economou, F._
   Astronomy &amp; Computing, 2015, 9, 40
 
