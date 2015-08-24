@@ -5,10 +5,6 @@ title: Refereed Publications
 
 ## 2015 (12 articles)
 
-* [Automated reduction of submillimetre single-dish heterodyne data from the James Clerk Maxwell Telescope using ORAC-DR](http://arxiv.org/abs/1506.04827)
-  _Jenness, T.; Currie, M.; Tilanus, R.; Cavanagh, B.; Berry, D.; Leech, J. &amp; Rizzi, L._
-  MNRAS, 2015, in press ([arXiv:1506.04827](http://arxiv.org/abs/1506.04827))
-
 * [The General Single-Dish Data Format: A Retrospective](http://dx.doi.org/10.1016/j.ascom.2015.06.001)
  _Jenness, T.; Stobie, E.; Maddalena, R.; Garwood, R.; Fairclough, J.; Prestage, R.; Tilanus, R. &amp; Padman, R._
   Astronomy &amp; Computing, 2015, in press (special issue on data formats) ([arXiv:1506.03136](http://arxiv.org/abs/1506.03136))
@@ -24,6 +20,10 @@ title: Refereed Publications
 * [Learning from 25 years of the extensible _N_-Dimensional Data Format](http://dx.doi.org/10.1016/j.ascom.2014.11.001)
   _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
   Astronomy &amp; Computing, 2015, in press (special issue on data formats) ([arXiv:1410.7513](http://arxiv.org/abs/1410.7513))
+
+* [Automated reduction of submillimetre single-dish heterodyne data from the James Clerk Maxwell Telescope using ORAC-DR](http://dx.doi.org/10.1093/mnras/stv1545)
+_Jenness, T.; Currie, M.; Tilanus, R.; Cavanagh, B.; Berry, D.; Leech, J. &amp; Rizzi, L._
+  MNRAS, 2015, 453, 73 ([arXiv:1506.04827](http://arxiv.org/abs/1506.04827))
 
 * [The JCMT Gould Belt Survey: First results from the SCUBA-2 observations of the Ophiuchus molecular cloud and a virial analysis of its prestellar core population](http://dx.doi.org/10.1093/mnras/stv376)
   _Pattle, K.; Ward-Thompson, D.; Kirk, J.M. &amp; 59 co-authors_

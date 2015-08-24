@@ -9,10 +9,6 @@ title: Publications
 
 **Selected highlights**
 
-* [Automated reduction of submillimetre single-dish heterodyne data from the James Clerk Maxwell Telescope using ORAC-DR](http://arxiv.org/abs/1506.04827)
-_Jenness, T.; Currie, M.; Tilanus, R.; Cavanagh, B.; Berry, D.; Leech, J. &amp; Rizzi, L._
-  MNRAS, 2015, in press ([arXiv:1506.04827](http://arxiv.org/abs/1506.04827))
-
 * [Reimplementing the Hierarchical Data System using HDF5](http://dx.doi.org/10.1016/j.ascom.2015.02.003)
   _Jenness, T._
   Astronomy &amp;Computing, 2015, in press (special issue on data formats) ([arXiv:1502.04029](http://arxiv.org/abs/1502.04029))
@@ -20,6 +16,10 @@ _Jenness, T.; Currie, M.; Tilanus, R.; Cavanagh, B.; Berry, D.; Leech, J. &amp; 
 * [Learning from 25 years of the extensible _N_-Dimensional Data Format](http://dx.doi.org/10.1016/j.ascom.2014.11.001)
   _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
   Astronomy &amp; Computing, 2015, in press (special issue on data formats) ([arXiv:1410.7513](http://arxiv.org/abs/1410.7513))
+
+* [Automated reduction of submillimetre single-dish heterodyne data from the James Clerk Maxwell Telescope using ORAC-DR](http://dx.doi.org/10.1093/mnras/stv1545)
+_Jenness, T.; Currie, M.; Tilanus, R.; Cavanagh, B.; Berry, D.; Leech, J. &amp; Rizzi, L._
+  MNRAS, 2015, 453, 73 ([arXiv:1506.04827](http://arxiv.org/abs/1506.04827))
 
 * [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](http://dx.doi.org/10.1016/j.ascom.2014.12.005)
   _Economou, F.; Gaudet, S.; Jenness, T. &amp; 10 co-authors_
