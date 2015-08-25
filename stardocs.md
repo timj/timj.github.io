@@ -14,7 +14,7 @@ title: Starlink Documents
   Starlink User Note 40.6, 2005
 
 * NBS -- The Noticeboard System
-  _Lupton, W. F.; Allan, D. J.;Bly, M. J.; Jenness, Tim_
+  _Lupton, W. F.; Allan, D. J.; Bly, M. J.; Jenness, Tim_
   Starlink User Note 77.8, 1995
 
 * HDS -- Hierarchical Data System
